@@ -1,1 +1,1 @@
-my teadme
+my readme
