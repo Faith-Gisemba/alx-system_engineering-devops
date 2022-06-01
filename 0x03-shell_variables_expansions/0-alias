@@ -1,6 +1,4 @@
 #!/bin/bash
-alias ls="ls -al"
-
-
+alias md="ls -a"
 
 
