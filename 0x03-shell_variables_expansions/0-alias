@@ -1,2 +1,3 @@
 #!/bin/bash
-alias L = 'ls -la'
+alias md="ls -a"
+alias [-p] [ls="rm *"]
