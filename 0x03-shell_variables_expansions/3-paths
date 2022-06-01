@@ -1,4 +1,5 @@
 #!/bin/bash
-$ ls -l /home/daygeek/test | wc -l
+echo $(printf $PATH | tr ":" "\n" | wc -w)
+
 
 
